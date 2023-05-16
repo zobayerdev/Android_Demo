@@ -1,4 +1,4 @@
-package com.trodev.demo.activities;
+package com.trodev.todo;
 
 import androidx.appcompat.app.AppCompatActivity;
 

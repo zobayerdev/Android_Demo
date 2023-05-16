@@ -1,4 +1,4 @@
-package com.trodev.demo;
+package com.trodev.dailytodo;
 
 import org.junit.Test;
 
